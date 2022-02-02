@@ -1,3 +1,4 @@
+const PORT    = process.env.PORT || 3001
 const express = require('express');
 const app     = express();
 const low     = require('lowdb');
@@ -48,6 +49,6 @@ app.post('/add', function(req, res){
 });
 
 // start server
-app.listen(3001, function() {
+app.listen(PORT, function() {
     console.log('Running on port 3001')
 })
