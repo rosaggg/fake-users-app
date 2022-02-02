@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "Tracey Fadel",
+      "dob": "1970-10-17",
+      "email": "Tracey27@gmail.com",
+      "username": "Tracey.Fadel58",
+      "password": "e_hQrBbcy4GZOnT",
+      "phone": "1-441-485-3104 x21924",
+      "streetaddress": "153 Raoul Cape",
+      "citystatezip": "Manuelport, MI 95997",
+      "latitude": "84.2738",
+      "longitude": "25.6715",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tumski/128.jpg"
+    },
+    {
+      "name": "Brittany Labadie",
+      "dob": "1956-2-22",
+      "email": "Brittany_Labadie44@yahoo.com",
+      "username": "Brittany21",
+      "password": "NxqPwvqqtXLHfIK",
+      "phone": "1-549-779-2607",
+      "streetaddress": "881 Jordi Loop",
+      "citystatezip": "South Janickville, MO 06232",
+      "latitude": "-4.2208",
+      "longitude": "111.8746",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jordyvdboom/128.jpg"
+    },
+    {
+      "name": "Deion Hartmann",
+      "dob": "1968-8-19",
+      "email": "Deion.Hartmann@gmail.com",
+      "username": "Deion.Hartmann32",
+      "password": "fHu6JS6e_r_6i7_",
+      "phone": "(970) 616-8648 x458",
+      "streetaddress": "685 Bailey Pines",
+      "citystatezip": "Port Hazle, SC 66051",
+      "latitude": "68.9328",
+      "longitude": "-16.9168",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/taylorling/128.jpg"
+    },
+    {
+      "name": "Lupe Conn",
+      "dob": "1966-3-16",
+      "email": "Lupe.Conn@yahoo.com",
+      "username": "Lupe11",
+      "password": "0ZtxRzkwMEXj0yK",
+      "phone": "(322) 877-0932 x324",
+      "streetaddress": "379 Towne Plain",
+      "citystatezip": "South Armani, IN 23681-1095",
+      "latitude": "-75.9018",
+      "longitude": "-126.1791",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dallasbpeters/128.jpg"
+    },
+    {
+      "name": "Karelle Braun Sr.",
+      "dob": "1990-8-12",
+      "email": "Karelle46@hotmail.com",
+      "username": "Karelle30",
+      "password": "FZOvffYfGPRjRcs",
+      "phone": "495.605.9664 x9820",
+      "streetaddress": "4906 Wuckert Way",
+      "citystatezip": "Faheyton, MT 11992-6368",
+      "latitude": "-19.3389",
+      "longitude": "-153.1416",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nelsonjoyce/128.jpg"
+    },
+    {
+      "name": "Emerald Schumm",
+      "dob": "1948-2-16",
+      "email": "Emerald47@yahoo.com",
+      "username": "Emerald77",
+      "password": "rtxdEM3f8zxKN5b",
+      "phone": "(471) 838-8121 x94009",
+      "streetaddress": "275 Harris Spring",
+      "citystatezip": "North Buckberg, AR 53862-9885",
+      "latitude": "21.9258",
+      "longitude": "91.1133",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/magugzbrand2d/128.jpg"
+    },
+    {
+      "name": "Brad Boyle",
+      "dob": "1964-11-29",
+      "email": "Brad.Boyle66@hotmail.com",
+      "username": "Brad_Boyle",
+      "password": "YuEjTh1NvhcrUsP",
+      "phone": "1-348-232-1346 x533",
+      "streetaddress": "930 Amira Mills",
+      "citystatezip": "Darrickville, LA 51648-2871",
+      "latitude": "-67.2930",
+      "longitude": "-177.8574",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/toddrew/128.jpg"
+    }
+  ]
+}
